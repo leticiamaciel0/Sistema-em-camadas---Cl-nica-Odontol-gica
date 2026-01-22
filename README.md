@@ -142,9 +142,13 @@ Abrir os arquivos HTML localizados na pasta frontend em um navegador;
 Utilizar o sistema conforme as funcionalidades disponíveis.
 
 Identificação dos Autores
+
 Nome: Letícia Justino Maciel.
+
 Curso: Análise e Desenvolvimento de Sistemas.
+
 Instituição de Ensino: IFCE Campus Boa Viagem.
+
 Ano: 2026
 
 Observações Finais
